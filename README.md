@@ -22,6 +22,7 @@ Feature Engineering: Generates polynomial and interaction features for machine l
 
 Visualization: Produces insightful plots of polynomial functions, regression fits, and training loss curves using Matplotlib.
 
+DEMO:
 
 === Polynomial Operations Demo ===
 p1 = 3.00x^2 + -2.00x + 5.00
@@ -35,6 +36,7 @@ d/dx(p1) = 6.00x + -2.00
 
 ∫p1 dx = 1.00x^3 + -1.00x^2 + 5.00x + C
 
+![image](https://github.com/user-attachments/assets/39d5d49d-939c-4b64-89dd-d232c1c0fd65)
 
 === Polynomial Regression Demo ===
 Epoch 0: MSE = 125.4614
@@ -91,6 +93,11 @@ Epoch 4999: MSE = 0.7791
 
 
 
+![image](https://github.com/user-attachments/assets/64193b65-0f10-41e4-9407-3a43a8f0d020)
+
+
+![image](https://github.com/user-attachments/assets/f2d26459-6dd1-430a-8159-baa19c6540d1)
+
 === Feature Engineering Demo ===
 Original features:
 [[1 2]
@@ -101,3 +108,7 @@ Polynomial features:
 [[ 1  1  2  4  2]
  [ 3  9  4 16 12]
  [ 5 25  6 36 30]]
+
+ 
+
+
