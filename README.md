@@ -21,3 +21,7 @@ Feature Engineering: Generates polynomial and interaction features for machine l
 
 
 Visualization: Produces insightful plots of polynomial functions, regression fits, and training loss curves using Matplotlib.
+
+
+
+![image](https://github.com/user-attachments/assets/c52d37f0-d929-43cc-8c1d-23c4d2375f3b)
